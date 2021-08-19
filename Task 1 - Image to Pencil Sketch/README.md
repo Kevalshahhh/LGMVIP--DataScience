@@ -1,5 +1,7 @@
-Steps:-  
+Language: Python  
+IDE: Jupyter Notebook  
 
+Steps:-  
 1. We need to read the image in RBG format and then convert it to a grayscale image.  
 2. This will turn an image into a classic black and white photo.  
 3. Then the next thing to do is invert the grayscale image also called negative image, this will be our inverted grayscale image.  
